@@ -22,7 +22,7 @@ yet to finalise the code, due to this, Windows XP (Specifically the 64Bit versio
 <h3>Project Properties</h3>
 <p>Platform: x86/32-Bit</p>
 <p>Targetting Framework: .NET 4.0</p>
-<p>Visual Studio 2019 Community (2022 doesn't support legacy .net versions natively)</p>
+<p>Visual Studio 2019 Community (2022 doesn't support legacy .NET versions natively)</p>
 <h2>FAQ</h2>
 <h3>Why isn't it themed like the original installer?</h3>
 <p>I don't want an IP lawsuit. Microsoft own the original setup materials and explicitly state that the installer and it's contents are not to be redistributed
